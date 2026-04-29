@@ -4,6 +4,8 @@
 
 Autors: Jhon Justiniano - Hugo Muiños
 
+[Link de la web](https://classessmx2n.github.io/web-projecte7-jhonjustinianogit/)
+
 ## Descripció
 
 Aquest repositori recull la proposta de **landing page** per a FoodLogistic, orientada a presentar de manera clara els serveis de l’empresa, reforçar la confiança de les persones usuàries i facilitar la captació de contactes comercials.
