@@ -2,7 +2,7 @@
 
 ![Logo](FoodLogisticLogo.png)
 
-Autors: [nom dels components del grup]
+Autors: Jhon Justiniano - Hugo Muiños
 
 ## Descripció
 
